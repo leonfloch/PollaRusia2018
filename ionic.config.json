@@ -1,0 +1,8 @@
+{
+  "name": "PollaRusia2018",
+  "app_id": "a218ad1c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
